@@ -19,7 +19,7 @@ spec:
     kind: Application
   project: default
   source:
-    path: bootstrap/argo-cd
+    path: resources/argo-cd
     repoURL: https://github.com/kim-codefresh/testme.git
   syncPolicy:
     automated:
